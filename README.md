@@ -110,8 +110,8 @@ I also explore AI research topics such as **LLM evaluation, reasoning faithfulne
 
 An independent research project investigating reasoning faithfulness in large language models.
 
-<a href="https://mohammaddev.gt.tc/en/research/cot-faithfulness">
-  <img src="https://img.shields.io/badge/Read%20the%20Research-0f766e?style=for-the-badge" />
+<a href="#">
+  <img src="https://img.shields.io/badge/Research-SOON-0f766e?style=for-the-badge" />
 </a>
 
 ---
