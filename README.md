@@ -104,29 +104,15 @@ I also explore AI research topics such as **LLM evaluation, reasoning faithfulne
 
 ---
 
-## 🧠 Research
-
-### CoT Faithfulness Research
+### 🔬 CoT Faithfulness Research
 
 **What Do Chains of Thought Actually Explain?**
 
-A research portfolio investigating failure modes in reasoning faithfulness and methods for evaluating whether language-model reasoning traces accurately reflect the processes behind model outputs.
+An independent research project investigating reasoning faithfulness in large language models.
 
-The project includes:
-
-- Literature synthesis
-- Evaluation methodology
-- Experimental design
-- Statistical analysis planning
-- Ablation design
-- Error analysis
-- Threats to validity
-- Reproducibility framework
-
-🔬 **Research Portfolio:**  
-https://mohammaddev.gt.tc
-
-> The research explicitly distinguishes verified findings from proposed experiments and illustrative examples.
+<a href="https://mohammaddev.gt.tc/en/research/cot-faithfulness">
+  <img src="https://img.shields.io/badge/Read%20the%20Research-0f766e?style=for-the-badge" />
+</a>
 
 ---
 
